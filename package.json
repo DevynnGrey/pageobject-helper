@@ -1,0 +1,30 @@
+{
+  "name": "@devynngrey/pageobject-helper",
+  "version": "1.0.0",
+  "description": "A package that contains all of my page object selectors so they can be used across multiple repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevynnGrey/pageobject-helper.git"
+  },
+  "keywords": [
+    "page",
+    "object",
+    "pageobject",
+    "helper",
+    "javascript",
+    "js",
+    "test",
+    "automation",
+    "test"
+  ],
+  "author": "Devynn Grey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevynnGrey/pageobject-helper/issues"
+  },
+  "homepage": "https://github.com/DevynnGrey/pageobject-helper#readme"
+}
